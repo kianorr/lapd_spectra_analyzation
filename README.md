@@ -1,1 +1,3 @@
-# lapd_spectra_analyzation
+# Large Plasma Device Spectra
+
+Analyzing spectra observed at UCLA's Large Plasma Device.
