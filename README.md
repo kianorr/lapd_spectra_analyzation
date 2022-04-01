@@ -3,7 +3,6 @@
 Analyzing spectra observed at UCLA's Large Plasma Device. `ColRadPy` is used to create synthetic spectra.
 
 
-Observed data from the Large Plasma Device:
+Comparison of synthetic and observed spectra, while varying Te:
 
-https://user-images.githubusercontent.com/60586957/159230378-35c8532e-0054-4239-85e5-03fae5710323.mp4
-
+![Figure_1](https://user-images.githubusercontent.com/60586957/161174690-2e69bb17-cceb-4098-830f-cbcb775e7630.png)
